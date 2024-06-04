@@ -1,0 +1,8 @@
+com/example/demo/PruebaAlianzaApplication.java
+ com.example.demo.PruebaAlianzaApplication
+com/example/demo/model/Cliente.java
+ com.example.demo.model.Cliente
+com/example/demo/service/ClienteService.java
+ com.example.demo.service.ClienteService
+com/example/demo/controller/ClienteController.java
+ com.example.demo.controller.ClienteController
